@@ -1,0 +1,39 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+@font-face {
+    font-family: Knockout-29JuniorLtweight;
+    src:url(../Fonts/knockout-htf29-juniorliteweight.ttf);
+}
+
+@font-face {
+    font-family: Knockout-31JuniorMiddlewt;
+    src:url(../Fonts/knockout-htf31-juniormiddlewt.otf);
+}
+
+@font-face {
+    font-family: Knockout-66FullFlyweight;
+    src:url(../Fonts/knockout-htf66-fullflyweight.ttf);
+}
+
+@font-face {
+    font-family: Knockout-70FullWelterwt;
+    src:url(../Fonts/knockout-htf70-fullwelterwt.ttf);
+}
+
+@font-face {
+    font-family: HelveticaNeue-CondensedBold;
+    src:url(../Fonts/HelveticaNeue-CondensedBold.otf);
+}
+
+@font-face {
+    font-family: HelveticaNeue-Medium;
+    src:url(../Fonts/HelveticaNeue-Medium.ttf);
+}
+
+@font-face {
+    font-family: HelveticaNeue-Thin;
+    src:url(../Fonts/HelveticaNeue-Thin.otf);
+}
+

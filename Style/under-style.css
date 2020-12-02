@@ -1,0 +1,44 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+div img{
+	height: auto;
+	width: 100%;
+	margin-top: 195px;
+}
+
+.gif img{
+	width: 100%;
+	height: auto;
+	margin-top: 65px;
+	}
+	
+span a:visited{
+	color:#999999;
+}
+
+@media only screen and (max-width: 1024px){
+	.gif img{
+		margin-top: 25px;
+	}
+	
+	div img{
+	margin-top: 115px;
+}
+}
+
+@media only screen and (max-width: 767px){
+
+	.gif img{
+		margin-top: 50px;
+	}
+	
+	.lt-board{
+		display:none;
+	}
+	
+	.rt-board{
+		display:none;
+	}
+}
